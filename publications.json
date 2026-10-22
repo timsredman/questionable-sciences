@@ -1,0 +1,24 @@
+{
+  "journal": "The Journal of Questionable Sciences",
+  "notice": "All articles are fictional satire, not real research.",
+  "articles": [
+    {
+      "reference": "JQS-2026-001",
+      "title": "The Development of a Social Media Enabled Yucca Plant",
+      "subtitle": "An Experimental Investigation into Autonomous Botanical Communication on X (Formerly Twitter)",
+      "authors": [
+        "Professor I. M. Barking",
+        "Dr Leaf N. Alone",
+        "Dr Hugh Jass",
+        "Professor Y. U. Cca"
+      ],
+      "volume": 1,
+      "issue": 1,
+      "date": "2026-10",
+      "discipline": "Botany & Technology",
+      "article": "articles/kevin-the-yucca.html",
+      "pdf": "kevin-the-yucca.pdf",
+      "abstract": "An entirely fictional investigation into a yucca plant's increasingly hostile social media presence."
+    }
+  ]
+}
